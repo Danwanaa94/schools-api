@@ -1,0 +1,5 @@
+DB_URL=mongodb+srv://Danwanaa94:mubeen2021@cluster0.qjlao.mongodb.net/schoolAPI?retryWrites=true&w=majority
+
+
+PORT = 5000
+node_modules
